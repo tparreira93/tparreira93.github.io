@@ -20,7 +20,7 @@ redirect_from:
 
 * **2012**: IT Consultant internship
   * Quidgest, Lisbon
-  * Duties included: 
+  * Duties included:
     * Debugging and troubleshooting
     * C++ Development
 
