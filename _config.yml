@@ -82,22 +82,21 @@ analytics:
 author:
   name             : "Thales Parreira"
   avatar           : "profile.jpg"
-  bio              : "I've been working for almost 3 years in both web and windows software development, database systems and reporting. 
-I have a Bachelor Degree in Computer Science and Engineering and am currently doing a masters program in Computer Engineering with focus on machine learning."
+  bio              : "Software Engineer"
   location         : "Lisbon, Portugal"
-  employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  employer         : "Quidgest"
+  pubmed           :
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/tparreira93"
+  github           : "tparreira93"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +109,7 @@ I have a Bachelor Degree in Computer Science and Engineering and am currently do
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
