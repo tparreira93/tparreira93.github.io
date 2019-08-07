@@ -12,8 +12,8 @@ redirect_from:
 ## Education
 
 * Technical Management and Programming of Informatic Systems Field Of Informatics, INETE, 2012
-* B.S. in Computer Science and Engineering, Faculdade de Ciências e Tecnologia (UNL), 2017
-* M.S. in Computer Science and Engineering, Faculdade de Ciências e Tecnologia (UNL), Sep. 2019 (expected)
+* B.Sc in Computer Science and Engineering, Faculdade de Ciências e Tecnologia (UNL), 2017
+* M.Sc in Computer Science and Engineering, Faculdade de Ciências e Tecnologia (UNL), Sep. 2019 (expected)
   * Thesis: Inferring social media visual stories from web graphs
 
 ## Work experience
