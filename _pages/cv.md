@@ -41,7 +41,7 @@ redirect_from:
     * Debugging and troubleshooting
     * C++ Development
 
-* **2015-currently** : Software developer
+* **2015-november 2019** : Software developer
   * Quidgest, Lisbon
   * Duties included:
     * Debugging and troubleshooting
@@ -52,6 +52,8 @@ redirect_from:
     * Reporting with Crystal Reports
     * Maintenance and evolution of applications
     * Requirement analysis  
+* **november 2019-currently** : Software developer
+  * Sky Technology Centre, Lisbon
 
 ## Skills
 
