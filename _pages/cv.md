@@ -25,13 +25,12 @@ redirect_from:
   * Object oriented programming
   * Artificial Intelligence
 
-* M.Sc. in Computer Science and Engineering, Faculdade de Ciências e Tecnologia (UNL), 2016 - Sep. 2019 (**expected**)
+* M.Sc. in Computer Science and Engineering, Faculdade de Ciências e Tecnologia (UNL), 2016 - 2022 (**expected**)
   * High performance computing(CUDA and OpenMP)
   * Java, C and Python programming
   * MySQL, Oracle and MongoDB databases
   * Machine learning algorithms
   * Text mining
-  * **Thesis**: Inferring social media visual stories from web graphs
 
 ## Work experience
 
@@ -54,6 +53,11 @@ redirect_from:
     * Requirement analysis  
 * **november 2019-currently** : Software developer
   * Sky Technology Centre, Lisbon
+  * DRM services team
+    * Fairplay, PlayReady and Widevine DRM's
+    * CI\CD automation
+    * Kotlin, Java, .NET development
+    * Maintenance, troubleshooting and 24/7 applications support
 
 ## Skills
 
