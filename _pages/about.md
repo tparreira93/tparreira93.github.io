@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I've started my career in 2015 and since then have been working in both web and windows software development, database systems and reporting. I love to solve problems and am passionate about finding ways for improving the development workflow of where I'm working.
+I am known for my unwavering dedication to my work, fueled by a genuine passion for continuous learning and exploring cutting-edge technologies.
+I am constantly seeking opportunities to enhance workflow efficiency and deliver innovative solutions.
 
-Currently, I'm finishing a masters program in Computer Engineering with a focus on machine learning and high-performance computation.
+Currently, I possess more than eight years of experience in software engineering, having worked extensively with both backend and frontend technologies.
+Throughout my career, I have actively contributed to design and development of systems that cater to large user bases. 
+My expertise spans various domains, including web and desktop applications, microservices, functional and non-functional testing, database systems, and data reporting.
