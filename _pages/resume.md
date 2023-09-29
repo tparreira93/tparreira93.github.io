@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -38,17 +38,17 @@ redirect_from:
 * **2015-november 2019** : Software Engineer
   * Quidgest, Lisbon
   * In this role I have contributed to software used by the Government of Jamaica, the Portuguese Parliament, NOVA University and many other clients. In more detail, I highlight that I:
-    \item Designed and implemented HR Software for **desktop** in **C++** and **web applications** in **C#**
-    \item Successfully integrated with external government services using **SOAP Web Services** written in **C#**
-    \item Conducted thorough analysis and optimization of the HR software's interactions with its **Microsoft SQL Server database**, enhancing its efficiency
-    \item Single-handedly **created tool** that streamlined company-wide software development processes, aligning them with their proprietary code generation product
-    \item Successfully improved, designed and implemented several obligatory government reports using **Crystal Reports** and **SQL Reporting Services**
-    \item Participated in the first experiments with **data analytics** using **Python**
+    * Designed and implemented HR Software for **desktop** in **C++** and **web applications** in **C#**
+    * Successfully integrated with external government services using **SOAP Web Services** written in **C#**
+    * Conducted thorough analysis and optimization of the HR software's interactions with its **Microsoft SQL Server database**, enhancing its efficiency
+    * Single-handedly **created tool** that streamlined company-wide software development processes, aligning them with their proprietary code generation product
+    * Successfully improved, designed and implemented several obligatory government reports using **Crystal Reports** and **SQL Reporting Services**
+    * Participated in the first experiments with **data analytics** using **Python**
 
 ## Skills, Languages and Interests
 
 * Skills
-  * **C++** **•** **C#** **•** **Java** **•** C **•** Kotlin **•** Python **•** \LaTeX **•** **Docker** **•** **Kubernetes** **•** **SQL Server** **•** Cassandra **•** Prometheus **•** Grafana **•** Kibana **•** **Jenkins** **•** Gradle **•** Bash **•** **Git** **•** Crystal Reports **•** SQL Reporting Services **•** **REST**
+  * **C++** **•** **C#** **•** **Java** **•** C **•** Kotlin **•** Python **•** LaTeX **•** **Docker** **•** **Kubernetes** **•** **SQL Server** **•** Cassandra **•** Prometheus **•** Grafana **•** Kibana **•** **Jenkins** **•** Gradle **•** Bash **•** **Git** **•** Crystal Reports **•** SQL Reporting Services **•** **REST**
 * Languages
   * Portuguese - Native **•** English - Native **•** Italian - Basic
 * Interests
